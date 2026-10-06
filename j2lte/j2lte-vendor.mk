@@ -48,7 +48,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j2lte/proprietary/vendor/etc/wifi/bcmdhd_sta.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bcmdhd_sta.bin \
     vendor/samsung/j2lte/proprietary/vendor/etc/wifi/nvram_mfg.txt:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/nvram_mfg.txt \
     vendor/samsung/j2lte/proprietary/vendor/etc/wifi/nvram_net.txt:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/nvram_net.txt \
-    vendor/samsung/j2lte/proprietary/lib/hw/camera.vendor.exynos5.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.vendor.universal3475.so \
+    vendor/samsung/j2lte/proprietary/lib/hw/camera.vendor.exynos5.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.vendor.exynos5.so \
     vendor/samsung/j2lte/proprietary/lib/hw/sensors.universal3475.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.universal3475.so \
     vendor/samsung/j2lte/proprietary/lib/libexynoscameraexternal.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libexynoscameraexternal.so \
     vendor/samsung/j2lte/proprietary/lib/libsec-ril-dsds.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsec-ril-dsds.so \
